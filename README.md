@@ -58,7 +58,6 @@ $ node .
 | Txt2Img|✅|
 | Whisper|✅|
 
-
 | Anime|Yes|
 | ------------- | ------------- |
 | Anime (search)|✅|
@@ -83,111 +82,29 @@ $ node .
 | Quotly Sticker|✅|
 | TextPro|✅|
 
-
-| FUN |Yes|
+| Downloader|Yes|
 | ------------- | ------------- |
-| Say|✅|
-| Simi|✅|
-| Nama ninja|✅|
-| Puisi|✅|
-| Cerpen|✅|
-| Tagme|✅|
-| Seberapa gay|✅|
-| Seberapa bucin|✅|
-| Chat prank|✔|
-| Font alay|✅|
-| Family 100|✅|
-| Kata kata receh|✅|
-| Status bapack|✅|
-| Gombal|✅|
-| Bucin|✅|
-
-
-| PRIMBON |Yes|
-| ------------- | ------------- |
-| Arti nama|✅|
-| Kecocokan nama|✅|
-| Get zodiak|✅|
-| Zodiak|❌|
-
-| Game |✅|
-| ------------- | ------------- |
-| Tebak gambar|✅|
-| Family 100|❌|
-| Truth or dare|✅|
-| Kerang ajaib (apakah, bolehkah, kapan)|✅|
-
-
-| DOWNLOAD |Yes|
-| ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Instagram foto/video |✅|
-| Facebook video |✅|
-| Twitter video |✅|
-
-| TOOLS |Yes|
-| ------------- | ------------- |
-| Nulis|❌|
-| Stiker|✅|
-| OCR|✅|
-| Instagram stalker|✅|
-| Shortlink|✅|
-
-| PICTURE |Yes|
-| ------------- | ------------- |
-| Cecan|✅|
-| Cogan|✅|
-| Anime|✅|
-| Loli|✅|
-| Neko|✅|
-| Wallpaper|✅|
-| Quotes|✅|
+| Cocofun|✅|
+| Facebook|✅|
+| Google Drive|✅|
+| Gitclone GitHub|✅|
+| Instagram|✅|
+| Joox|✅|
+| Likee|✅|
+| Mediafire|✅|
+| Meowalls|✅|
+| Pinterest|✅|
+| Pixiv|✅|
+| Play Audio|✅|
+| Share Chat|✅|
+| Smule|✅|
+| Snackvideo|✅|
+| Soundcloud|✅|
+| Spotify|✅|
+| Subscene|✅|
+| Tiktok (Audio/Video/Slide)|✅|
 | Twitter|✅|
-| Meme|✅|
-| Img|✅|
-
-| TEXT |Yes|
-| ------------- | ------------- |
-| Quotes maker|✅|
-| Logo pornhub|✅|
-| Logo e-sport|✅|
-
-| EDUKASI |Yes|
-| ------------- | ------------- |
-| Al-Qur'an|✅|
-| Al-Qur'an per surah|✅|
-| Brainly|✅|
-| Wikipedia|✅|
-| Fakta|✅|
-| KBBI|✅|
-| Tanggal Nasional|✅|
-
-| WHEATER |Yes|
-| ------------- | ------------- |
-| Info BMKG |✅|
-| Info gempa |✅|
-| Info cuaca |✅|
-
-| Others |Yes|
-| ------------- | ------------- |
-| Jadwal tv|✅|
-| Jadwal tv (channel)|✅|
-| Jadwal sholat|✅|
-| Info Covid|✅|
-| Info anime|✅|
-| Lirik lagu|✅|
-| Chord lagu|✅|
-| Mini map|✅|
-
-| Groups |Yes|
-| ------------- | ------------- |
-| Merubah Nama grup|✅|
-| Merubah deskripsi grup|✅|
-| Menutup grup|✅|
-| Membuka grup|✅|
-| Ping|✅|
-| Owner|✅|
+| Youtube (Search/Audio/Video)|✅|
 
 
 ### BUY FOR GET
