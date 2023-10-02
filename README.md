@@ -2,11 +2,12 @@
 <p align="center">
 <a href="https://telegra.ph/file/dda8a14aa0061beba3af4.jpg"><img title="NAKANO NERA" src="https://telegra.ph/file/dda8a14aa0061beba3af4.jpg"></a>
 <p align="center">
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"></a>
+<a href="#"><img title="BETA" src="https://img.shields.io/badge/BETA-YES-blue.svg"></a>
+<a href="#"><img title="FOR SALE" src="https://img.shields.io/badge/FORSALE-YES-blue.svg"></a>   
 </p>
 
 ### NAKANO NERA
-SCRIPT MODIFIKASI BUKAN HASIL SENDIRI
+```script bukan murni bikinan sendiri, saya hanya sekedar kroco penghuni inti bumi.```
 </div>
 
 
