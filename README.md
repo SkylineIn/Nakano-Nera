@@ -36,6 +36,54 @@ $ node .
 
 ### FEATURED
 
+| Artificial Intelligence|Yes|
+| ------------- | ------------- |
+| Avatar Me|✅|
+| Beauty Plus|✅|
+| Cartoon Me|✅|
+| Comic Me|✅|
+| Deepfake|✅|
+| Different|✅|
+| Diffusion|✅|
+| Enchance|✅|
+| Ersgan|✅|
+| Filter|✅|
+| Img2Img|✅|
+| Moderation|✅|
+| Openai 4.0|✅|
+| Openai Dalle|✅|
+| Remini|✅|
+| Set Ai Profile|✅|
+| Turn Me|✅|
+| Txt2Img|✅|
+| Whisper|✅|
+
+
+| Anime|Yes|
+| ------------- | ------------- |
+| Anime (search)|✅|
+| Character (search)|✅|
+| Kitsu (search)|✅|
+| Komiku (search)|✅|
+| Kusonime (search)|✅|
+| Manga (search)|✅|
+| My Animeku (search)|✅|
+| Neonime (search)|✅|
+| Story Anime (random)|✅|
+| Nekos Picture (random)|✅|
+| Nekoslife Picture (random)|✅|
+| Waifu Picture (random)|✅|
+
+| Creator Picture|Yes|
+| ------------- | ------------- |
+| Ephoto|✅|
+| Editor|✅|
+| PhotoOxy|✅|
+| Pas Foto|✅|
+| Quotly Sticker|✅|
+| TextPro|✅|
+
+
 | FUN |Yes|
 | ------------- | ------------- |
 | Say|✅|
