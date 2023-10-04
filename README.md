@@ -116,7 +116,8 @@ $ node .
 | Free Panel|✅|
 | Free Service|✅|
 * ```Price: IDR 70.000```
-
+* [WhatsApp Contact Bot](https://wa.me/6282264563755)
+  
 ### Contacts Me
 * [Instagram](https://www.instagram.com/skynkt)
 * [WhatsApp](https://wa.me/6283131341678)
