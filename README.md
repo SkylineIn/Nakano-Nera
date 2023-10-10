@@ -34,6 +34,18 @@ $ node .
    NOTE : use node `node . --pairing` if you want to link device with phone number
 4. Now your bot is ready to use.
 
+### FOR SET APIKEY
+```
+• type command:
+.addapi for add your api,
+.cekapi for check your apikey
+.delapi for delete your apikey
+
+• example: .addapi nameApi apiKey
+         : .addapi lolkey neraApikey
+```
+
+
 ### FEATURED
 
 | Artificial Intelligence|Yes|
